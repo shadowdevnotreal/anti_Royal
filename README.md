@@ -1,9 +1,9 @@
 # <div align="center">Anti - Royal</div>
 ## <div align="center">Catch the malware your EDR is missing!</div>
 
-![](https://github.com/shadowdevnotreal/anti_Royal/blob/main/Images/antiroyal.jpg)
+<div align="center">![](https://github.com/shadowdevnotreal/anti_Royal/blob/main/Images/antiroyal.jpg)</div>
 
-![][Powered by Chat GPT-3](https://github.com/shadowdevnotreal/anti_Royal/blob/main/Images/chat%20GPT3.png)
+![Powered by Chat GPT-3](https://github.com/shadowdevnotreal/anti_Royal/blob/main/Images/chat%20GPT3.png)
 
 ## LOGIC
 [Wiki for deatiled analysis](https://github.com/shadowdevnotreal/anti_Royal/wiki)
