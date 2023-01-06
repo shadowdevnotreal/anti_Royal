@@ -1,1 +1,0 @@
-PartiallyEncrypted-MarkerString.txt: This file has the string "PARTIALLY ENCRYPTED" in its contents, so it will be identified as a partially encrypted file using the third method.
