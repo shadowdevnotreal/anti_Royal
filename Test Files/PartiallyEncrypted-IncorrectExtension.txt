@@ -1,0 +1,1 @@
+PartiallyEncrypted-IncorrectExtension.txt: This file does not have the correct file extension, so it will be identified as a partially encrypted file using the second method.
