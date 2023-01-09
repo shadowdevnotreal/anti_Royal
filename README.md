@@ -8,6 +8,16 @@ Powered by Chat GPT-3
 
 ![](https://github.com/shadowdevnotreal/anti_Royal/blob/main/Images/chat%20GPT3.png)
 
+[Please read the WIKI!](https://github.com/shadowdevnotreal/anti_Royal/wiki)
+## CODE HAS NOT BEEN FULLY TESTED BUT IS SAFE = LOOKING FOR TESTERS WHILE I PROCEED WITH THE REST OF THE FRAMEWORK ##
+* This tool is among several that will make up a framework of EDR assistance that is actually missed by EDR and AV.
+* Much like OWASP or Maryam, this will consist of modules. The best part is..... the missing modules over time will self update!
+* The goal of this project is to automate reporting and notifying to the admin, NOC, SOC, etc. of site issues. Even IF something gets past EDR/AV/Etc..... It will not matter once it hits the desktop.....our code will stop it, mitigate it, and over time..... will leaarn patterns.
+* The problem in cyber security is not the lack of products, frameworks, reporting, tools, services, admins, etc. The problem in SEC in general is the end user. If you removed the end user blunders, I estimate 75+% of your issues would go away.
+* Facts = During my time at Microsoft as a EMS SME, over 80% of admins did not enable MFA. Prior to Sentinal being what it is, with all it's data..... this was the sole cause of majority of the cyber breaches at that point in time.
+* We have all the tools we need to stop malware DEAD in it's tracks. I'd stake my life on it..... it is time to get back to the roots of forensics, simple code.
+** X happens because of Y. This is not hard math. We have cause, and we have effect.
+
 ## Basic Description
 PowerShell script that combines creating a Windows service, searching for partially encrypted files, moving them to a folder on the desktop, logging the activity to a text file, and creating a Windows Sandbox configuration file which will then auto scan those files.
 
