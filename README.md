@@ -1,14 +1,22 @@
-# <div align="center">Anti - Royal</div>
-## <div align="center">Catch the malware your EDR is missing!</div>
+<p align="center">
+Anti - Royal
+</p>
+<p align="center">
+Catch the malware your EDR is missing!
+</p>
 
-![](https://github.com/shadowdevnotreal/anti_Royal/blob/main/Images/antiroyal.jpg)
+<p align="center">
+  <img width="400" src="https://github.com/shadowdevnotreal/anti_Royal/blob/main/Images/antiroyal.jpg">
+</p>
 
+<p align="center">
+  <img width="180" src="https://github.com/shadowdevnotreal/anti_Royal/blob/main/Images/chat%20GPT3.png">
+</p>
 
-Powered by Chat GPT-3
-
-![](https://github.com/shadowdevnotreal/anti_Royal/blob/main/Images/chat%20GPT3.png)
+<a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
 [Please read the WIKI!](https://github.com/shadowdevnotreal/anti_Royal/wiki)
+
 ## CODE HAS NOT BEEN FULLY TESTED BUT IS SAFE = LOOKING FOR TESTERS WHILE I PROCEED WITH THE REST OF THE FRAMEWORK ##
 * This tool is among several that will make up a framework of EDR assistance that is actually missed by EDR and AV.
 * Much like OWASP or Maryam, this will consist of modules. The best part is..... the missing modules over time will self update!
@@ -100,5 +108,5 @@ This guy gave me the idea because since cyber wasn't paying s**t...... I had bee
 Check out his git, he is considered a contributor to this project
 https://github.com/tahkisis
 
-If you want to be kind and make donations to my broke a$$:
+Donations to my broke a$$:
 * Bitcoin (BTC) Address: bc1qa27kjjqacshg3szwvr5rr48dfwfdfrtyu8agd4
