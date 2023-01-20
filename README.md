@@ -18,6 +18,8 @@ Catch the malware your EDR is missing!
 [Please read the WIKI!](https://github.com/shadowdevnotreal/anti_Royal/wiki)
 
 ## CODE HAS NOT BEEN FULLY TESTED BUT IS SAFE = LOOKING FOR TESTERS WHILE I PROCEED WITH THE REST OF THE FRAMEWORK ##
+## It has come to my attention that Microsoft has cut off the ability to run defender in sandbox, which is completely lame. That being said. I have a workaround and will be updating this soon. I created a new wsb file, and even setup a sample config script that will install programs for you on startup. ##
+
 * This tool is among several that will make up a framework of EDR assistance that is actually missed by EDR and AV.
 * Much like OWASP or Maryam, this will consist of modules. The best part is..... the missing modules over time will self update!
 * The goal of this project is to automate reporting and notifying to the admin, NOC, SOC, etc. of site issues. Even IF something gets past EDR/AV/Etc..... It will not matter once it hits the desktop.....our code will stop it, mitigate it, and over time..... will leaarn patterns.
